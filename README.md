@@ -1,10 +1,16 @@
-# Taiansu Global
+# Global, with universal-ctags
+
+This tap is fork and maintained here because homebrew-core doesn't allow `option` for now.
+
 
 ## How do I install these formulae?
 
-`brew install taiansu/global/<formula>`
+`brew install taiansu/global/global`
 
-Or `brew tap taiansu/global` and then `brew install <formula>`.
+
+## Contribution
+
+I'll try to keep the global version up to date. But PRs are more then welcome.
 
 ## Documentation
 
